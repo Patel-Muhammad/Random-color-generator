@@ -1,6 +1,6 @@
 # Random color generator
 <h2>🌐 Link for the deployed version </h2>
-https://simpleme.netlify.app/
+https://random-colorcode-generator.netlify.app/
 
 <hr>
 
